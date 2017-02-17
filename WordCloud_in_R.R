@@ -2,32 +2,30 @@
 
 #Select a write up, preferably a huge one so that the output looks meaningful.
 
-#Copy and paste
-the text in a plain text file (e.g : ml.txt)
+#Copy and paste the text in a plain text file (e.g : ml.txt)
 
 #Save the file
 
 #Install the following packages
 
 install.packages("tm")
- for text mining
+ #for text mining
 
 install.packages("tm_map")
 
 install.packages("SnowballC")
- for text stemming
+ #for text stemming
 
 install.packages("wordcloud")
-word-cloud generator 
+#word-cloud generator 
 
 install.packages("RColorBrewer")
-color palettes
+#color palettes
 
 install.packages
 ("VectorSource")
 
-#Once all the packages are installed you need tom load it as you are
-always required to!
+#Once all the packages are installed you need tom load it as you are always required to!
 
 library("tm")
 
