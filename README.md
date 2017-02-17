@@ -6,6 +6,6 @@ can do on R. It’s easy as the codes are already available.  All you need to d
 work on and a genius person by your side (or anywhere approachable) to guide you
 in case you get stuck!!
 
-
+Install R & R-Studio to exeucte the code https://www.rstudio.com/products/rstudio/download/
 
 
