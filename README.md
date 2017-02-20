@@ -8,4 +8,7 @@ in case you get stuck!!
 
 Install R & R-Studio to exeucte the code https://www.rstudio.com/products/rstudio/download/
 
+### Sample Output:
+
+![Sample Screenshot](/Word_cloud.PNG)
 
